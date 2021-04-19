@@ -11,6 +11,23 @@
 	<name>flyway-extends</name>
 	<url>http://maven.apache.org</url>
 	<description>Flyway extension of springboot</description>
+	
+	<scm>
+		<url>https://github.com/dongyushuai/flyway-extends</url>
+		<connection>scm:git:https://github.com/dongyushuai/flyway-extends.git</connection>
+		<developerConnection>scm:git:https://github.com/dongyushuai/flyway-extends.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
+
+	<developers>
+		<developer>
+			<id>fixiu</id>
+			<name>fixiu</name>
+			<email>dongyshd@dingtalk.com</email>
+			<url>https://www.fixiu.com</url>
+			<timezone>+8</timezone>
+		</developer>
+	</developers>
 
 	<properties>
 		<java.version>1.8</java.version>
